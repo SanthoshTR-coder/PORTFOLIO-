@@ -80,7 +80,7 @@ const Hero = () => {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="text-5xl md:text-7xl font-bold text-gray-900"
             >
-              Hriday Chandra ONLY son of Chandra Sampanna
+              Hriday Chandra
             </motion.h1>
             
             <motion.div
