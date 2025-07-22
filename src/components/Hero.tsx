@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import myImage from './HRIDAY.jpg';
+import myImage from './HRIDAY1.jpeg';
 import { ArrowDown, Github, Linkedin, Mail, Instagram } from 'lucide-react';
 
 const Hero = () => {
